@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer>
       <div className="container">
-        <p>© {new Date().getFullYear()} Renan Ferreira (ZeroGallo) | Feito com React + Vite</p>
+        <p>© {new Date().getFullYear()} Renan Ferreira Full-Stack | “Transformando ideias em código – um commit por vez.”</p>
       </div>
     </footer>
   )

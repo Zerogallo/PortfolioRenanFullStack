@@ -1,6 +1,8 @@
 import { FaLinkedin, FaGithub, FaEnvelope, FaPhone } from 'react-icons/fa'
 import './Contact.css'
 
+
+
 const Contact = () => {
   return (
     <section id="contact">

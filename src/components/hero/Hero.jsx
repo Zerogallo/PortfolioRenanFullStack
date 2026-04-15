@@ -1,5 +1,5 @@
 import './Hero.css'
-import Pref from '../../assets/pref_Renan.png'
+import Pref from '../../assets/pref-tdd.png'
 import logo from '../../../public/desenvolvedor-fullstack.png'
 import pt from '../../assets/pt.png'
 
