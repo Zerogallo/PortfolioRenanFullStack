@@ -1,16 +1,60 @@
-# React + Vite
+<div align="center">
+ 
+  <img src="https://github.com/Zerogallo/PortfolioRenanFullStack/blob/main/public/app-renan.png" />
+  
+## Renan (ZeroGallo) | Full-Stack Developer
+  
+💻 **Desenvolvedor Full-Stack | Back-End | Front-End**  
+🎓 Ciência da Computação  
+📫 (21) 97274-5455 · renan.grenslist@gmail.com · [LinkedIn](https://www.linkedin.com/in/renan-ferreira-full-stack)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+</div>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+##  Sobre mim
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Sou **desenvolvedor full-stack** em formação, estudante de Ciência da Computação e criador de soluções web com React, Node.js e Django.  
+Tenho experiência prática com deploy no **Render.com** e mantenho um portfólio online que reflete minha evolução na área.
 
-## Expanding the ESLint configuration
+ **Objetivo:** conquistar minha primeira oportunidade como desenvolvedor júnior ou estagiário, contribuindo com código de qualidade e aprendendo cada dia mais.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+⚡ **O que você encontra por aqui:**  
+- Projetos front-end e back-end completos  
+- APIs, integrações e bancos de dados  
+- Código limpo, versionado e documentado  
+
+ Vamos trocar uma ideia? Me chame no [LinkedIn](https://www.linkedin.com/in/renan-ferreira-full-stack) ou por e-mail: **renan.grenslist@gmail.com**
+
+
+
+##  Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vite,nodejs,express,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,c,html,css,tailwind,git,docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=githubactions,aws,firebase,expo,figma,linux" />
+</div>
+
+<br>
+
+✔️ **Experiência com deploy e hospedagem:** [Render.com](https://render.com) (Web Services, Static Sites, PostgreSQL, cron jobs)
+
+
+
+##  Projetos em Destaque
+
+<div align="center">
+
+| Projeto | Descrição | Link |
+|---------|-----------|------|
+| **Portfólio** | Site pessoal com React + Vite, design responsivo e animações. Deploy no Render. | [Acessar](https://portfoliorenanfullstack.onrender.com) |
+| **Repositórios GitHub** | Meus códigos open source – back-end, front-end, estudos e testes. | [Ver todos](https://github.com/Zerogallo/PortfolioRenanFullStack) |
+
+</div>
+
+
+
+
+
+
