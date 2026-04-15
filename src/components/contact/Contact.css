@@ -1,0 +1,26 @@
+.contact-container {
+  text-align: center;
+}
+
+.contact-info {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
+
+.contact-info a {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  background: #1a1a2e;
+  padding: 0.8rem 1.5rem;
+  border-radius: 40px;
+  transition: 0.3s;
+}
+
+.contact-info a:hover {
+  background: #3a7bd5;
+  transform: scale(1.02);
+}

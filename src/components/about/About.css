@@ -1,0 +1,14 @@
+.about-content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 1.1rem;
+  color: #ccc;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.about-content strong {
+  color: #3a7bd5;
+}
