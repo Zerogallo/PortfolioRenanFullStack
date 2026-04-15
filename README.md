@@ -14,7 +14,7 @@
 
 ##  Sobre mim
 
-Sou **desenvolvedor full-stack** em formação, estudante de Ciência da Computação e criador de soluções web com React, Node.js e Django.  
+Sou **desenvolvedor full-stack** em formação, estudante de Ciência da Computação e criador de soluções web com React, Node.js .  
 Tenho experiência prática com deploy no **Render.com** e mantenho um portfólio online que reflete minha evolução na área.
 
  **Objetivo:** conquistar minha primeira oportunidade como desenvolvedor júnior ou estagiário, contribuindo com código de qualidade e aprendendo cada dia mais.
