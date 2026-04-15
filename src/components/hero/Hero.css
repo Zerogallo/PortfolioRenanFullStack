@@ -89,6 +89,46 @@
   font-size: 12rem;
   animation: float 3s ease-in-out infinite;
 }
+.avatar {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  object-fit: cover;
+  animation: float 3s ease-in-out infinite;
+  position: relative;
+  
+}
+.code-icon::before {
+  content: '';
+  position: absolute;
+  top: -20px;
+  left: -20px;
+  right: -20px;
+  bottom: -20px;
+  background: radial-gradient(circle, rgb(93, 125, 231) 0%, rgba(255,255,255,0)70%);
+  filter: blur(10px);
+  z-index: -1;
+}
+.code-logo{
+  width: 400px;
+  height: 400px;
+  margin-top: -50px;
+  position: absolute;
+  z-index: -1;
+  top: 10%;
+  left: 80px;
+}
+.code-pt {
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  z-index: 1;
+  top: 50%;
+  left: 80px;
+}
+
+
+
 
 @keyframes float {
   0% { transform: translateY(0px); }

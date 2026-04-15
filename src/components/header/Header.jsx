@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import { FaBars, FaTimes } from 'react-icons/fa'
 import './Header.css'
+import img from '../../../public/desenvolvedor-fullstack.png'
 
 const Header = () => {
   const [menuOpen, setMenuOpen] = useState(false)
@@ -11,7 +12,8 @@ const Header = () => {
     <header className="header">
       <div className="container header-container">
         <div className="logo">
-          <a href="#">Renan<span className="highlight">(ZeroGallo)</span></a>
+          <img src={img} alt="Renan Full-Stack Developer" className='imgLogo'/>
+          <a href="#"> Renan<span className="highlight"> (Full-Stack)</span></a>
         </div>
         <nav className={`nav ${menuOpen ? 'active' : ''}`}>
           <ul>
@@ -28,6 +30,6 @@ const Header = () => {
       </div>
     </header>
   )
-}
+} 
 
 export default Header
