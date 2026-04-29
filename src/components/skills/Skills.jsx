@@ -1,5 +1,5 @@
-import { FaReact, FaNodeJs, FaPython, FaGitAlt, FaDocker, FaJsSquare, FaHtml5, FaCss3Alt, FaAws, FaReacteurope, FaGithub } from 'react-icons/fa'
-import { SiTypescript, SiMongodb, SiPostgresql, SiDjango, SiRender, SiVite, SiExpress, SiPrisma, SiKubernetes, SiGithubactions, SiExpo } from 'react-icons/si'
+import { FaReact, FaNodeJs, FaPython, FaGitAlt, FaDocker, FaJsSquare, FaHtml5, FaCss3Alt, FaAws, FaReacteurope, FaGithub, FaAngular } from 'react-icons/fa'
+import { SiTypescript, SiMongodb, SiPostgresql, SiDjango, SiRender, SiVite, SiExpress, SiPrisma, SiKubernetes, SiGithubactions, SiExpo, SiNestjs } from 'react-icons/si'
 import './Skills.css'
 import { RiNextjsFill, RiTailwindCssFill } from 'react-icons/ri'
 import { BiLogoFlask } from 'react-icons/bi'
@@ -10,13 +10,13 @@ import { FcLinux } from 'react-icons/fc'
 const skills = [
   { name: 'React', icon: <FaReact />, color: '#61DAFB' },
   { name: 'Vite', icon: <SiVite />, color: '#e3cd26' },
-  { name: 'HTML5', icon:<FaHtml5 />, color: '#e39126' },
+  { name: 'HTML5', icon: <FaHtml5 />, color: '#e39126' },
   { name: 'CSS3', icon: <FaCss3Alt />, color: '#264de4' },
-  { name: 'Next.js', icon:<RiNextjsFill />, color: '#f5f4ef' },
-  { name: 'Express', icon:<SiExpress  />, color: '#d0d8d0' },
-  { name: 'Prisma', icon:<SiPrisma />, color: '#38B2AC' },
+  { name: 'Next.js', icon: <RiNextjsFill />, color: '#f5f4ef' },
+  { name: 'Express', icon: <SiExpress />, color: '#d0d8d0' },
+  { name: 'Prisma', icon: <SiPrisma />, color: '#38B2AC' },
   { name: 'Flask', icon: <BiLogoFlask />, color: '#e7eaed' },
-  { name: 'Tailwind CSS', icon:<RiTailwindCssFill />, color: '#3875b2' },
+  { name: 'Tailwind CSS', icon: <RiTailwindCssFill />, color: '#3875b2' },
   { name: 'Kubernetes', icon: <SiKubernetes />, color: '#9e31c6' },
   { name: 'GitHub Actions', icon: <SiGithubactions />, color: '#85b7e2' },
   { name: 'AWS', icon: <FaAws />, color: '#e8e9ea' },
@@ -29,7 +29,9 @@ const skills = [
   { name: 'Node.js', icon: <FaNodeJs />, color: '#339933' },
   { name: 'Python', icon: <FaPython />, color: '#3776AB' },
   { name: 'Django', icon: <SiDjango />, color: '#092E20' },
+  { name: 'NestJS', icon: <SiNestjs />, color: '#F05032' },
   { name: 'MongoDB', icon: <SiMongodb />, color: '#47A248' },
+  { name: 'Angular', icon: <FaAngular />, color: '#F05032' },
   { name: 'PostgreSQL', icon: <SiPostgresql />, color: '#4169E1' },
   { name: 'Git', icon: <FaGitAlt />, color: '#F05032' },
   { name: 'Docker', icon: <FaDocker />, color: '#2496ED' },
